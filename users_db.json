@@ -1,0 +1,158 @@
+{
+  "srujanca4@gmail.com": {
+    "password": "bad5b3c2508b39a7d3510511887dfcd89e5f324331024c9b7696619d00d1ecf6",
+    "name": "Srujan C A",
+    "created_at": "2025-11-09T11:58:58.344107",
+    "profile": {
+      "user_id": "user_20251109115949",
+      "name": "Srujan C A",
+      "age": 20,
+      "gender": "male",
+      "weight": 65,
+      "height": 150,
+      "activity_level": "lightly_active",
+      "sleep_hours": 7,
+      "medical_conditions": [],
+      "dietary_restrictions": [
+        "vegetarian"
+      ],
+      "fitness_goals": [
+        "weight_loss",
+        "maintenance"
+      ],
+      "bmi": 28.89,
+      "bmr": 1492.5,
+      "tdee": 2052.19,
+      "bmi_category": "Overweight"
+    }
+  },
+  "shrath018@gmail.com": {
+    "password": "a6709e7efadfa4b2133efaab90bd4c7daebae9eafc057b931dca6624c8883fd8",
+    "name": "Sharath",
+    "created_at": "2025-11-11T10:26:18.776087",
+    "profile": {
+      "user_id": "user_20251111102817",
+      "name": "Sharath",
+      "age": 22,
+      "gender": "male",
+      "weight": 50,
+      "height": 155,
+      "activity_level": "lightly_active",
+      "sleep_hours": 7.0,
+      "medical_conditions": [],
+      "dietary_restrictions": [],
+      "fitness_goals": [
+        "muscle_gain",
+        "maintenance"
+      ],
+      "bmi": 20.81,
+      "bmr": 1363.75,
+      "tdee": 1875.16,
+      "bmi_category": "Normal weight"
+    }
+  },
+  "srujanca427@gmail.com": {
+    "password": "819293b9042aea231e2ed9942dee843815b81b8d3bea8b70f42f564958c19474",
+    "name": "Srujan CA",
+    "created_at": "2025-11-12T10:12:07.240588",
+    "profile": {
+      "user_id": "user_20251112101310",
+      "name": "Srujan C A",
+      "age": 20,
+      "gender": "male",
+      "weight": 65,
+      "height": 150,
+      "activity_level": "lightly_active",
+      "sleep_hours": 7.0,
+      "medical_conditions": [],
+      "dietary_restrictions": [],
+      "fitness_goals": [
+        "weight_loss",
+        "maintenance"
+      ],
+      "bmi": 28.89,
+      "bmr": 1492.5,
+      "tdee": 2052.19,
+      "bmi_category": "Overweight"
+    }
+  },
+  "siddarth@gmail.com": {
+    "password": "43b0f89d4ab2235637aa8a3e45d57392a8f80a8de2f10c15b71420e097ee7332",
+    "name": "siddarth",
+    "created_at": "2025-11-12T10:19:26.815239",
+    "profile": {
+      "user_id": "user_20251111102817",
+      "name": "sidddarth",
+      "age": 20,
+      "gender": "male",
+      "weight": 62,
+      "height": 182,
+      "activity_level": "moderately_active",
+      "sleep_hours": 7,
+      "medical_conditions": [],
+      "dietary_restrictions": [
+        "non_veg"
+      ],
+      "fitness_goals": [
+        "muscle_gain",
+        "maintenance"
+      ],
+      "bmi": 18.72,
+      "bmr": 1662.5,
+      "tdee": 2576.88,
+      "bmi_category": "Normal weight"
+    }
+  },
+  "user1@gmail.com": {
+    "password": "114663ab194edcb3f61d409883ce4ae6c3c2f9854194095a5385011d15becbef",
+    "name": "user1",
+    "created_at": "2025-11-23T16:17:12.127623",
+    "profile": {
+      "user_id": "user_20251123161920",
+      "name": "user1",
+      "age": 27,
+      "gender": "female",
+      "weight": 65,
+      "height": 175,
+      "activity_level": "sedentary",
+      "sleep_hours": 7,
+      "medical_conditions": [],
+      "dietary_restrictions": [
+        "vegan"
+      ],
+      "fitness_goals": [
+        "weight_loss"
+      ],
+      "bmi": 21.22,
+      "bmr": 1447.75,
+      "tdee": 1737.3,
+      "bmi_category": "Normal weight"
+    }
+  },
+  "user2@gmail.com": {
+    "password": "114663ab194edcb3f61d409883ce4ae6c3c2f9854194095a5385011d15becbef",
+    "name": "user2",
+    "created_at": "2025-11-23T17:26:32.349365",
+    "profile": {
+      "user_id": "user_20251123172737",
+      "name": "user2",
+      "age": 33,
+      "gender": "female",
+      "weight": 64,
+      "height": 157,
+      "activity_level": "sedentary",
+      "sleep_hours": 5,
+      "medical_conditions": [],
+      "dietary_restrictions": [
+        "vegetarian"
+      ],
+      "fitness_goals": [
+        "weight_loss"
+      ],
+      "bmi": 25.96,
+      "bmr": 1295.25,
+      "tdee": 1554.3,
+      "bmi_category": "Overweight"
+    }
+  }
+}
